@@ -1,0 +1,15 @@
+USER STORIES:
+CUSTOMERS:
+  1.As a customer ,I want to have an SBI account in the  same bank so that 
+  I get a DMAT account.
+  2.As a customer ,I want to maintain the adeque amount in SBI account to buy shares
+  so that required amount is blocked for buying shares.
+  3.As a customer ,I want to maintain balance of shares in DMAT account
+  to easy identification.
+  
+  ISSUES:
+   Certain should be maintained to buying or selling of snows.
+   The transaction amount with share price minus commision.
+  
+  MILESTONES:
+    getting a DMAT account ,Buying the shares ,selling the share transferring to Bankers Account
