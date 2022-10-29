@@ -1,5 +1,15 @@
-User:Administration officer,faculty,student
-User Stories:-
-Administration:As a administration , I want to create a username password to the other roles of user so that it would help in smoother 
+USER:Administration officer,faculty,student
+USER STOTIES:-
+ADMINISTRTION:As a administration , I want to create a username password to the other roles of user so that it would help in smoother 
   running of the institute
- Officers: As an officer .I want to know the details
+OFFICERS: As an officer .I want to know the details of the students that Ican generate reports including the student status,courses,
+  addition,dectition etc
+FACULTY:As a faculty ,I want the student to choose their faculty and pass on details so that I can share timetable,course material
+STUDENT: As a student , I want the register myself so that I could get course timetable,course material
+ ISSUES:
+        based on clearance of the loan any one can buy land from existing farmer.the new farmer details have to update in the portal.
+        Those who have not availed loan facility the amount will be transferred to their savings account and the deposited and can be withdrawn. 
+  MILESTONES:
+    1. Submission of identifiation proof to RTO.
+    2. Verification of identification proof to RTO.
+    3. Gneration of licence among two licenses.
