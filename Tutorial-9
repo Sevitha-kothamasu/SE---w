@@ -1,0 +1,18 @@
+ONLINE SHOPPING AND RECHARGE
+USER STORIES:
+ONLINE:
+CUSTOMERS:
+   As a customer,I want to give my username,password,name,password,adress,
+   and phone number. So that I can perform a transaction and recharge.
+ ISSUES:
+    The customer who came as a guest cannot look into hisler transaction again
+ PRODUCT PURCHASE:
+ CUSTOMERS:
+      As a customer,I want to  know and verify the transaction details
+      and tracking of the product if not satisfied can return the product.
+  ISSUES:
+    After returning the product the same amount will not come back in 
+    the Bank Account.
+   MILESTONES:
+      performing transaction on real life basis purchasing product and getting transaction details 
+      Recharge of Mobile/OTP.
